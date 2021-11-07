@@ -19,8 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E1BC29?style=flat&logo=javascript&logoColor=white&link=https://github.com/llambdaa)
 ![Befunge](https://img.shields.io/badge/-Befunge-FCD3DE?style=flat&logo=befunge&logoColor=white&link=https://github.com/llambdaa)
 ![Brainfuck](https://img.shields.io/badge/-Brainfuck-DCABDF?style=flat&logo=brainfuck&logoColor=white&link=https://github.com/llambdaa)
-![Python](https://img.shields.io/badge/-Python-FDCA40?style=flat&logo=python&logoColor=white&link=https://github.com/llambdaa)
 ![Rust](https://img.shields.io/badge/-Rust-BF3100?style=flat&logo=rust&logoColor=white&link=https://github.com/llambdaa) <br/>
+![Python](https://img.shields.io/badge/-Python-FDCA40?style=flat&logo=python&logoColor=white&link=https://github.com/llambdaa)
 ![Scala](https://img.shields.io/badge/-Scala-6E0D25?style=flat&logo=scala&logoColor=white&link=https://github.com/llambdaa)
 ![C#](https://img.shields.io/badge/-C%23-DC493A?style=flat&logo=csharp&logoColor=white&link=https://github.com/llambdaa)
 ![Golang](https://img.shields.io/badge/-Golang-0090C1?style=flat&logo=go&logoColor=white&link=https://github.com/llambdaa)
